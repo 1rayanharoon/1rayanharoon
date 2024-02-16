@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1rayanharoon
-- 👀 I’m interested in ... C++ and Front-end development
+- 👀 I’m interested in ... C++,python and Front-end development
 - 🌱 I’m currently learning ... Front-end development
-- 💞️ I’m looking to collaborate on ...front-end development or c++ projects
+- 💞️ I’m looking to collaborate on ... Data science, C++ ,Python
 - 📫 How to reach me ...ahayanharoon@gmail.com
 
 <!---
