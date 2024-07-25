@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @1rayanharoon
-- 👀 I’m interested in ... C++ and Front-end development
-- 🌱 I’m currently learning ... Front-end development
-- 💞️ I’m looking to collaborate on ...front-end development or c++ projects
+Hi there, 👋 Welcome
+My name is Rayan. I am from Pakistan. A BS Software Engineering student from Bahria University, Islamabad.
+
+I love to create full stack applications. Right now I am learning data science, exploring python, excel and sql. I am also doing research on machine learning delving deep into the oceans of artificial intelligence.
+
+Skills:
+Project management, Web development, Data science, Machine Learning
+
+Tools:
+Html, Css, JavaScript, React, Python, Flask,mongoDb, numpy, pandas, scikit learn, tensorflow, sql.
+
+
+- 💞️ I’m looking to collaborate on ...AI based SAAS projects, web development, data analytics
 - 📫 How to reach me ...ahayanharoon@gmail.com
 
 <!---
