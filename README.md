@@ -1,16 +1,16 @@
 Hi there, 👋 Welcome
-My name is Rayan. I am from Pakistan. A BS Software Engineering student from Bahria University, Islamabad.
+My name is Rayan. A Software Engineering student doing my bachelors from Bahria University, Islamabad.
 
-I love to create full stack applications. Right now I am learning data science, exploring python, excel and sql. I am also doing research on machine learning delving deep into the oceans of artificial intelligence.
+I love to create full-stack applications. Right now I am learning data science, exploring Python, SQL, and Tableau. I am also researching machine learning delving deep into the oceans of artificial intelligence.
 
 Skills:
-Project management, Web development, Data science, Machine Learning
+Project management, Web development, Machine Learning
 
 Tools:
-Html, Css, JavaScript, React, Python, Flask,mongoDb, numpy, pandas, scikit learn, tensorflow, sql.
+HTML, CSS, JavaScript, React, Python, Flask, MongoDb, numpy, pandas, scikit-learn, TensorFlow, SQL.
 
 
-- 💞️ I’m looking to collaborate on ...AI based SAAS projects, web development, data analytics
+- 💞️ I’m looking to collaborate on ...AI based SAAS projects, web development, data analytics, automation
 - 📫 How to reach me ...ahayanharoon@gmail.com
 
 <!---
